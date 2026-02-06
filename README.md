@@ -2,12 +2,11 @@
 
 Projeto de controle de finanças pessoais com backend em Node.js e deploy no Render.
 
-## Links Úteis
+## 🔗 Links Úteis
 
-| Serviço        | Link                                                                 |
-|----------------|----------------------------------------------------------------------|
-| MongoDB Atlas  | https://cloud.mongodb.com/v2/68a11017eb8a5459e17b33ab#/clusters/detail/MyWallet |
-| Aplicação      | [https://projeto-wallet.onrender.com ](https://projeto-wallet-gtx1.onrender.com)                 |
+- 🌐 Aplicação (Render): https://projeto-wallet.onrender.com  
+  ⚠️ O deploy pode estar temporariamente indisponível devido às limitações do plano gratuito do Render.
+
 
 ## Tecnologias do Projeto
 
